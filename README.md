@@ -39,6 +39,6 @@ The project has bootstraped with a javascript module bundler(webpack).
 ## How to run the application
 In the app folder
 
-**-Install*: npm run install
-**-Build**: npm run build
-**-DEV**: npm run start:dev
+- **Install**: npm run install
+- **Build**: npm run build
+- **DEV**: npm run start:dev
